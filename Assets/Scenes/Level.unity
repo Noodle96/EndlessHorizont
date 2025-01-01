@@ -444,7 +444,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   forwardSpeed: 3
-  laneDistance: 2.5
+  laneDistance: 2
+  jumpForce: 12
+  gravity: -20
 --- !u!143 &1122316603
 CharacterController:
   m_ObjectHideFlags: 0
